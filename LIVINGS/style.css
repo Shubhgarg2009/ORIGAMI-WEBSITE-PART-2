@@ -1,0 +1,79 @@
+.Hl1{
+    color:blueviolet;  
+    background-color:lightgreen ;
+    border-color: darkgreen;
+    border:solid;
+}
+.name{
+    
+    border:dashed;
+    border-width: 30px;
+    border-color: aqua;
+}
+.images{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightgreen;
+}
+.h4{
+    background:pink;
+    color: blue;
+}
+.Gh{
+background-color: gold;
+align-self: center;
+border:dotted;
+    border-color: royalblue;
+}
+.images4{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightcoral;
+}
+.P{
+    color: red;
+}
+.Thank{
+    color:crimson;
+}
+.h{
+    background-color: greenyellow;
+align-self: center;
+border:dotted;
+    border-color: royalblue;
+}
+.images5{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightskyblue;
+}
+.p3{
+    color: darkolivegreen;
+    
+}
+.Thank2{
+    display:flex;
+    flex-wrap:wrap;
+    color:peru;
+}
+.pp{
+    color:palevioletred;
+}
+.imageLiving{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:greenyellow;
+    border:dotted;
+    border-width: 30px;
+    border-color:lightskyblue;
+}
+.Hl2{
+    color:blueviolet;  
+    background-color:lightgreen ;
+    border-color: darkgreen;
+    border:solid;
+}

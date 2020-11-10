@@ -1,0 +1,24 @@
+.Hn1{
+    color:darkorchid;  
+    background-color:paleturquoise ;
+    border-color: green;
+    border:solid;  
+    border:dashed;
+}
+.Thank2{
+    display:flex;
+    flex-wrap:wrap;
+    color:palegreen;
+}
+.pp{
+    color:red;
+}
+.imageLiving{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:gold;
+    border:dotted;
+    border-width: 30px;
+    border-color:pink;
+}
